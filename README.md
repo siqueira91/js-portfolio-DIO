@@ -1,3 +1,3 @@
-# js-portifolio-DIO
+# js-portfolio-DIO
 
-Projeto de portifólio desenvolvido no curso de Javascript Developer
+Projeto de portfólio desenvolvido no curso de Javascript Developer
